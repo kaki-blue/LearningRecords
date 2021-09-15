@@ -18,7 +18,7 @@
 
 ```
 git config --global user.name "yourname"
-git config --global user.email “your@email.com"
+git config --global user.email "your@email.com"
 ```
 
 git命令行中运行如下命令在.ssh文件夹中生成ssh key
