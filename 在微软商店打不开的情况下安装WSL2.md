@@ -14,7 +14,9 @@
 
 ![](https://github.com/halipai/MYIMAGES/raw/main/github1/0.png?raw=true)
 
-（详见https://github.com/jwork-2021/jw02-halipai），terminal上没有这么高级的技术，所以要安装wsl（我到底为什么不用虚拟机呢 可恶），然后发现microsoft store竟然无法打开，试了下搜到的所有方法也于事无补，所以只能在互联网上搜索手动安装wsl，话不多说，点击https://wiki.ubuntu.com/WSL#Installing_Ubuntu_on_WSL_via_rootfs，在`Installing Ubuntu on WSL via rootfs`下点击`[Ubuntu 20.04 LTS]`
+详见https://github.com/jwork-2021/jw02-halipai
+terminal上没有这么高级的技术，所以要安装wsl（我到底为什么不用虚拟机呢 可恶），然后发现microsoft store竟然无法打开，试了下搜到的所有方法也于事无补，所以只能在互联网上搜索手动安装wsl，话不多说，点击https://wiki.ubuntu.com/WSL#Installing_Ubuntu_on_WSL_via_rootfs
+在`Installing Ubuntu on WSL via rootfs`下点击`[Ubuntu 20.04 LTS]`
 
 ![](https://github.com/halipai/MYIMAGES/raw/main/github1/1.png?raw=true)
 
