@@ -1,2 +1,2 @@
-# learningrecords
+# LearningRecords
 会记录一些平时因为一些push学到的新技能，以防忘记或者系统重装
